@@ -11,7 +11,7 @@ Nahed is a tribute to my mother, who fought cancer. During her journey, we reali
 
 - **Financial Matching:** Uses Gemini 3 to match patient profiles with Egyptian health initiatives (like 100 Million Seha) and NGOs.
 
-- **AI Voice Assistant (ElevenLabs):** A human-like voice navigator that reads the roadmap aloud, ensuring accessibility for elderly or visually impaired patients.
+- **AI Voice Assistant :** A human-like voice navigator that reads the roadmap aloud, ensuring accessibility for elderly or visually impaired patients.
 - **Multilingual Support:** Seamlessly switches between English and localized Arabic for patient comfort.
 
 ## 🛠️ Technological Stack
