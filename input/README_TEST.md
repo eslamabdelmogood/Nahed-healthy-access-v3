@@ -1,3 +1,6 @@
+⚙️ How to test or try it:
+
+
 1- open the repository: https://github.com/eslamabdelmogood/Nahed-healthy-access-v3
 
 2-Search for a folder named : input
